@@ -23,3 +23,18 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;此博客需要读者具备一定的C应用开发经验，对程序的执行加载有所了解。同事要求读者尽可能具备深入的`ELF`技术储备。
 
+
+
+---
+文章地址：https://github.com/iDalink/ld-linker-script
+###<center>章节目录</center>
+- *01 基本概念*
+- *02 格式*
+- *03 简要示例*
+- *04 简要链接指令*
+- *05 符号值分配*
+- *06 SECTIONS指令*
+- *07 MEMORY指令*
+- *08 PHDRS指令*
+- *09 VERSION指令*
+- *10 Linker Scripts中的表达式*
