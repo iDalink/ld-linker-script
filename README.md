@@ -38,3 +38,6 @@
 - *08 PHDRS指令*
 - *09 VERSION指令*
 - *10 Linker Scripts中的表达式*
+- *11 构建可运行程序*
+- *12 抛弃glibc依赖*
+
